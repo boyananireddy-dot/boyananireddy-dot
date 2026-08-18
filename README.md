@@ -82,11 +82,7 @@ improving my technical skills.
 <b>python</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="65">
-<br>
-<b>java</b>
-</td>
+
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=javascript" width="65">
@@ -94,11 +90,7 @@ improving my technical skills.
 <b>javascript</b>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=typescript" width="65">
-<br>
-<b>typescript</b>
-</td>
+
 
 </tr>
 </table>
